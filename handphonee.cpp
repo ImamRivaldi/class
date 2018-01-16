@@ -10,5 +10,10 @@ class handphone{
 };
 
 int main(){
+	handphone samsung, apple;
 	
+	samsung.tipe="Samsung Galaxy Note 8";
+	apple.tipe="Apple iPhone X";
+	samsung.harga=12000000;
+	apple.harga=20000000;
 }
