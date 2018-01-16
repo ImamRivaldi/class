@@ -16,4 +16,7 @@ int main(){
 	apple.tipe="Apple iPhone X";
 	samsung.harga=12000000;
 	apple.harga=20000000;
+	
+	cout<<"Harga Samsung Galaxy Note 8 : Rp. "<<(samsung.harga)<<endl;
+	cout<<"Harga Apple iPhone X : Rp. "<<(apple.harga)<<endl;
 }
