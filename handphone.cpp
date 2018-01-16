@@ -27,5 +27,5 @@ int main(){
 }
 
 void handphone::bemain(string mainan){
-	
+	cout<<"Samsung Note 8 bisa dipakai bemain "<<mainan<<endl;
 }
