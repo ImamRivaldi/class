@@ -22,3 +22,7 @@ int main(){
 	
 	samsung.fitur("*Infinity Display \n*6.3'' screen \n*18.5:9 aspect ratio \n*Dual Camera with Dual OIS \n*Optical Zoom \n*Dual Pixel Sensor \n*Bright Lens \n");
 }
+
+void handphone::fitur(string fitur){
+	cout<<endl<<"Fitur Samsung Galaxy Note 8 : "<<endl<<fitur;
+}
