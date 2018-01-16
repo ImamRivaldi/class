@@ -25,3 +25,7 @@ int main(){
 	handphonesamsung.bemain("Mobile Legend");
 	handphonesamsung.bemain("Candy Crush");
 }
+
+void handphone::bemain(string mainan){
+	
+}
