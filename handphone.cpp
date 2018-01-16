@@ -21,4 +21,7 @@ int main(){
 	cout<<"Design"<<endl<<(handphonesamsung.design);
 	cout<<"Camera"<<endl<<(handphonesamsung.camera);
 	cout<<"Harga Rp."<<(handphonesamsung.harga)<<endl;
+	
+	handphonesamsung.bemain("Mobile Legend");
+	handphonesamsung.bemain("Candy Crush");
 }
