@@ -19,4 +19,6 @@ int main(){
 	
 	cout<<"Harga Samsung Galaxy Note 8 : Rp. "<<(samsung.harga)<<endl;
 	cout<<"Harga Apple iPhone X : Rp. "<<(apple.harga)<<endl;
+	
+	samsung.fitur("*Infinity Display \n*6.3'' screen \n*18.5:9 aspect ratio \n*Dual Camera with Dual OIS \n*Optical Zoom \n*Dual Pixel Sensor \n*Bright Lens \n");
 }
